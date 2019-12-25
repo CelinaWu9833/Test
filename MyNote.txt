@@ -1,0 +1,91 @@
+==========================账号email
+**Outlook Email:**
+celinawu123@outlook.com   430621jing
+celina.wu@WT00340-0016
+
+**Unity Account:**
+celinawu123@outlook.com   430621Jing
+
+**谷歌账号**
+celinawu111@gmail.com
+430621_jing
+
+**绘图工具processon**
+407675027@qq.com
+123456789
+
+GitHub：
+地址：https://github.com/CelinaWu9833
+用户名：CelinaWu9833
+邮箱：celinawu@augmentum.com.cn
+密码：430621jing
+git教程：https://blog.csdn.net/youzhouliu/article/details/78952453
+
+======================================================
+ADO.NET生成连接字符串的方法:
+1. 新建一个文本文档,将后缀名改成.udl.
+2. open .udl文件 with OLE DB Core Services,第一个tab中选择Microsoft OLE DB Provider for SQL Server.
+3. 在第二个tab中 服务器名称 添上数据库连接名 eg:WT01450-16, 选择数据库
+  如果数据库安装时选择的是混合模式,登录服务器的信息选择"使用Windows NT 继承安全设置",
+  然后点击测试,成功后选择确定.
+4. 用记事本打开.udl文件,复制Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=MyTest;Data Source=WT01450-16即可.
+
+===============================邮件格式
+This version is include the below changes.这个版本包括以下改变。
+1.
+2.
+We have the following issues need to check with you. 有以下问题需要你检查
+As shown in the following screenshot 如下截图As below screenshot.
+
+Thanks in advance. 提前感谢您
+Please let me know if you have any questions.如果您有任何意见, 请告诉我。
+Thanks again for your help and patience. 再次感谢你的帮助和耐心
+Send us back the log file 发给我日志文件
+Please check inline comment. 请检查行内注释
+
+Below are the change logical details. 下面是我们要修改的逻辑详情
+Below is my findings：以下是我的发现
+below issues will be fixed until We have a good solution. 直到我们有一个好的解决办法，以下问题将会被修复
+But this idea has a weakness. 考虑一个方案缺点
+We prefer the option #1. 更倾向哪种做法
+
+列出你的方案：
+Below is the solution:
+1... 2... 3...
+优点：
+Advantages: 1... 2...
+缺点：
+Disadvantages: 1... 2...
+we suggestion Option#1, please tell us your idea.
+
+Can we have a meeting tomorrow at 7:00pm my time (China time 9:00am friday). 
+===============================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
